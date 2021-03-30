@@ -9,4 +9,6 @@ To create a new 8051 project using Keil IDE, Click on the ' Project ' item on th
 Now create a Folder to store your project and give a name to your Project files (*.uvproj), for eg exp1 (exp1.uvproj) , then save it.<br><br>
 ![](/images/img3.png) <br><br>
 ### Selecting 8051 MicroController
-* After saving the project , a dialog box will appear for select the Device <br>
+* After saving the project , a dialog box will appear to select a Device <br>
+* Then type "at89c51" in search box  
+* Click on `AT89C51` and click on `OK`
