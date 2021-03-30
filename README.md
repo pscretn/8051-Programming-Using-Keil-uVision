@@ -32,7 +32,7 @@ Select the Files of type : `Asm Source file (*.s*;*.src*;*.a*)` , Select the fil
 To Bulid Project , Click on `Project` >> `Build Target` or press on `F7` key<br><br>
 ![](/images/img13.png) <br><br>
 If the Build is successful there will not be any error or any warning  as shown in the figure below , else verify the code and rebuild it
-![](/images/img14-a.png) <br><br>
+![](/images/img14a.png) <br><br>
 ## Debug and Run Code
 Next step is to debug the code , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`<br><br>
 ![](/images/img15.png) <br><br>
