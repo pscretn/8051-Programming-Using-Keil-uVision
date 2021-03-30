@@ -39,7 +39,7 @@ Next step is to debug the code , For that click on `Debug` >> `Start/Stop Debug 
 After Entering to debug , you will have a similar screen as shown in the figure below<br><br>
 ![](/images/img21.png) <br><br>
 Next step is to Run the code , For that click on `Debug` >> `Run` or press on `F5` or click "Run" button highlighted in green color<br><br>
-![](/images/img22.png) <br><br>
+![](/images/img2.png) <br><br>
 After a few seconds we need to Stop running the code , For that click on `Debug` >> `Stop`  or click "Stop" button highlighted in red color<br><br>
 ![](/images/img18.png) <br><br>
 Before Closing the Keil uVision We need to stop Debugging , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`, Then close it<br><br> 
