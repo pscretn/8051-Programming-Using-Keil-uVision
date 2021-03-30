@@ -41,14 +41,23 @@ To Bulid Project , Click on `Project` >> `Build Target` or press on `F7` key<br>
 ![](/images/img13.png) <br><br>
 If the Build is successful there will not be any error or any warning  as shown in the figure below , else verify the code and rebuild it.<br><br>
 ![](/images/img14a.png) <br><br>
-### Debug and Run Code
+## Debug and Run Code
 Next step is to debug the code , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`<br><br>
 ![](/images/img15.png) <br><br>
 After Entering to debug , you will have a similar screen as shown in the figure below<br><br>
 ![](/images/img21.png) <br><br>
+Locate "Memory 1" tab ,double click inside "Address" box<br><br>
+![](/images/img23.png) <br><br>
+now type Address : ```x:4300h``` as shown in image below<br><br>
+![](/images/img16.png) <br><br>
+Change the values as shown in image below , Inorder to alter value , Double-Click on it >> Change Value ( for eg `00` : `22`) >> Press `Enter`<br><br>
+![](/images/img17.png) <br><br>
 Next step is to Run the code , For that click on `Debug` >> `Run` or press on `F5` or click "Run" button highlighted in green color<br><br>
 ![](/images/img22.jpg) <br><br>
 After a few seconds we need to Stop running the code , For that click on `Debug` >> `Stop`  or click "Stop" button highlighted in red color<br><br>
 ![](/images/img18.jpg) <br><br>
+Locate "Memory 1" tab ,double click inside "Address" box<br>
+now type Address : ```x:4350h``` as shown in image below<br><br>
+![](/images/img19.png) <br><br>
 Before Closing the Keil uVision We need to stop Debugging , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`, Then close it<br><br> 
 ![](/images/img15.png) <br><br>
