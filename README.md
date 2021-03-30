@@ -37,6 +37,6 @@ If the Build is successful there will not be any error or any warning  as shown 
 Next step is to debug the code , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`<br><br>
 ![](/images/img15.png) <br><br>
 After Entering to debug , you will have a similar screen as shown in the figure below<br><br>
-![](/images/img2.png) <br><br>
+![](/images/img21.png) <br><br>
 
 
