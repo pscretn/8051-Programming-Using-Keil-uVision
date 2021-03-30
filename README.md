@@ -13,5 +13,6 @@ Now create a Folder to store your project and give a name to your Project files 
 * Then type "at89c51" in search box  
 * Click on `AT89C51` and click on `OK`<br><br>
 ![](/images/img4.png) <br><br>
-You will get another dialog as shown below. Asking to copy STARTUP.A51<br><br>
+You will get another dialog as shown below. Asking to copy STARTUP.A51<br>
+Click on `No`<br><br>
 ![](/images/img5.png) <br><br>
