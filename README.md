@@ -11,4 +11,7 @@ Now create a Folder to store your project and give a name to your Project files 
 ### Selecting 8051 MicroController
 * After saving the project , a dialog box will appear to select a Device <br>
 * Then type "at89c51" in search box  
-* Click on `AT89C51` and click on `OK`
+* Click on `AT89C51` and click on `OK`<br><br>
+![](/images/img4.png) <br><br>
+You will get another dialog as shown below. Asking to copy STARTUP.A51<br><br>
+![](/images/img5.png) <br><br>
