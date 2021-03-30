@@ -50,7 +50,7 @@ Locate "Memory 1" tab ,double click inside "Address" box<br><br>
 ![](/images/img23.jpg) <br><br>
 now type Address : ```x:4300h``` as shown in image below<br><br>
 ![](/images/img16.png) <br><br>
-Change the values as shown in image below , Inorder to alter value , Double-Click on it >> Change Value [`00` : `11`,`00` : `22`,`00` : `33`......]>> Press `Enter`<br><br>
+Change the values as shown in image below , Inorder to alter value , Double-Click on it >> Change Value [`00` : `11`,`00` : `22`,`00` : `33`......]<br> >> Press `Enter`<br><br>
 ![](/images/img17.png) <br><br>
 Next step is to Run the code , For that click on `Debug` >> `Run` or press on `F5` or click "Run" button highlighted in green color<br><br>
 ![](/images/img22.jpg) <br><br>
