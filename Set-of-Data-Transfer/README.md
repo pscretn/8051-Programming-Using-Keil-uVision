@@ -6,7 +6,26 @@ Here in this program , we will transfer a set of data to a specified memory loca
 ### Writing Code
 Now inorder to write code we need a blank file , Click on `File` >> `New...` or can use keyboard shorcut `Ctrl`+`N`<br><br>
 ![](/images/img7.png) <br><br>
-Write a code as shown in the figure below <br><br>
+```Assembly
+  
+$mod51
+org 00h
+mov dptr,#4300h
+mov r2,#0ah
+mov r1,#50h
+mov r0,#00h
+loop:mov dpl,r0
+movx a,@dptr
+inc r0
+mov dpl,r1
+movx @dptr,a
+inc r1
+djnz r2,loop
+l1:sjmp l1
+end
+```
+
+copy the code from above and paste it as shown in the figure below <br><br>
 ![](/images/img8.png) <br><br>
 Now "Save As" the file , Click on `File` >> `Save As...`<br><br>
 ![](/images/img9.png) <br><br>
@@ -19,7 +38,7 @@ Select the Files of type : `Asm Source file (*.s*;*.src*;*.a*)` , Select the fil
 ### Project Build
 To Bulid Project , Click on `Project` >> `Build Target` or press on `F7` key<br><br>
 ![](/images/img13.png) <br><br>
-If the Build is successful there will not be any error or any warning  as shown in the figure below , else verify the code and rebuild it
+If the Build is successful there will not be any error or any warning  as shown in the figure below , else verify the code and rebuild it.<br><br>
 ![](/images/img14a.png) <br><br>
 ### Debug and Run Code
 Next step is to debug the code , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`<br><br>
