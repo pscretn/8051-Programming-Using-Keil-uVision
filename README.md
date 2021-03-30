@@ -16,5 +16,7 @@ Now create a Folder to store your project and give a name to your Project files 
 You will get another dialog as shown below. Asking to copy STARTUP.A51, Click on `No`<br><br>
 ![](/images/img5.png) <br><br>
 ## Writing Code
-Now inorder to write code we need a blank file , Click on `File` >> `New...` or can use `Ctrl`+`N`<br><br>
+Now inorder to write code we need a blank file , Click on `File` >> `New...` or can use keyboard shorcut `Ctrl`+`N`<br><br>
 ![](/images/img7.png) <br><br>
+Write a code as shown in the figure below <br><br>
+![](/images/img8.png) <br><br>
