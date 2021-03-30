@@ -6,7 +6,7 @@ When we open Keil uVision For first time we will be able to see ide as shown in 
 ![](/images/img1.png) <br><br>
 To create a new 8051 project using Keil IDE, Click on the ' Project ' item on the IDE Menu bar and select ' New uVision Project... ' as shown in the above image.<br><br>
 ![](/images/img2.png) <br><br>
-Now create a Folder to store your project and give a name to your Project files (*.uvproj), for eg exp1 (exp1.uvproj) , then save it.<br><br>
+Now create a Folder to store your project and give a name to your Project files (*.uvproj), for eg exp1 (exp1.uvproj) , then `save` it.<br><br>
 ![](/images/img3.png) <br><br>
 ## Selecting 8051 MicroController
 * After saving the project , a dialog box will appear to select a Device <br>
@@ -20,3 +20,11 @@ Now inorder to write code we need a blank file , Click on `File` >> `New...` or 
 ![](/images/img7.png) <br><br>
 Write a code as shown in the figure below <br><br>
 ![](/images/img8.png) <br><br>
+Now "Save As" the file , Click on `File` >> `Save As...`<br><br>
+![](/images/img9.png) <br><br>
+Give a file name to your code with extenstion *.asm, for eg code.asm , then `save` it.<br><br>
+![](/images/img10.png) <br><br>
+ In left corner you can see a `Project`Box , in that `Project` Box expand `Target 1`  , then Right click on  `Source Group 1`, Then click on `Add Existing Files to Group 'Source Group 1'...`<br><br>
+![](/images/img11.png) <br><br>
+Select the Files of type : `Asm Source file (*.s*;*.src*;*.a*)` , Select the file with extenstion *.asm , here in my case it is "code1.asm" , Click on `Add` and click on `Close`<br><br>
+![](/images/img12.png) <br><br>
