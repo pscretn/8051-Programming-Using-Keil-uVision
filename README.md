@@ -8,4 +8,5 @@ To create a new 8051 project using Keil IDE, Click on the ' Project ' item on th
 ![](/images/img2.png) <br><br>
 Now create a Folder to store your project and give a name to your Project files (*.uvproj), for eg exp1 (exp1.uvproj) , then save it.<br><br>
 ![](/images/img3.png) <br><br>
+### Selecting 8051 MicroController
 
