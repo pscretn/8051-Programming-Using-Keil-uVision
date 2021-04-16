@@ -46,3 +46,4 @@ Before Closing the Keil uVision We need to stop Debugging , For that click on `D
 ![](/images/img15.png) <br><br>
 # Assembly Language Programming experiments
 * <a href="https://github.com/pscretn/8051-Programming-Using-Keil-uVision/tree/master/Set-of-Data-Transfer"><strong>Data transfer/exchange between specified memory locations</strong></a>
+* <a href="https://github.com/pscretn/8051-Programming-Using-Keil-uVision/tree/master/Largest_or_Smallest_of_a_Series"><strong>Largest/smallest from a series<strong></a>
