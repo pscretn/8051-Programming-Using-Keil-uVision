@@ -28,6 +28,16 @@ movx @dptr,a
 l3:sjmp l3
 end
 ```
+copy the code from above and paste it as shown in the figure below<br><br>
+![](/images/img25.png) <br><br>
+Now "Save As" the file , Click on `File` >> `Save As...`<br><br>
+![](/images/img26.png) <br><br>
+Give a file name to your code with extenstion *.asm, for eg code.asm , then `save` it.<br><br>
+![](/images/img27.png) <br><br>
+ In left corner you can see a `Project`Box , in that `Project` Box expand `Target 1`  , then Right click on  `Source Group 1`, Then click on `Add Existing Files to Group 'Source Group 1'...`<br><br>
+![](/images/img11.png) <br><br>
+Select the Files of type : `Asm Source file (*.s*;*.src*;*.a*)` , Select the file with extenstion *.asm , here in my case it is "code1.asm" , Click on `Add` and click on `Close`<br><br>
+![](/images/img12.png) <br><br>
 # Smallest of a Series
 ## Program
 ```Assembly
