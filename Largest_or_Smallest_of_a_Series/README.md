@@ -50,6 +50,9 @@ After Entering to debug , you will have a similar screen as shown in the figure 
 ![](/images/img21.png) <br><br>
 Locate "Memory 1" tab ,double click inside "Address" box<br><br>
 ![](/images/img23.jpg) <br><br>
+now type Address : ```x:4300h``` as shown in image below<br><br>
+![](/images/img16.png) <br><br>
+Change the values as shown in image below , Inorder to alter value , Double-Click on it >> Change Value [`11` : `08` , `D6` : `FE` , `01` : `05` : `56` : `34` : `66` : `77`]<br> >> Press `Enter`<br><br>
 # Smallest of a Series
 ## Program
 ```Assembly
@@ -94,3 +97,6 @@ After Entering to debug , you will have a similar screen as shown in the figure 
 ![](/images/img21.png) <br><br>
 Locate "Memory 1" tab ,double click inside "Address" box<br><br>
 ![](/images/img23.jpg) <br><br>
+now type Address : ```x:4300h``` as shown in image below<br><br>
+![](/images/img16.png) <br><br>
+Change the values as shown in image below , Inorder to alter value , Double-Click on it >> Change Value [`11` : `08` , `D6` : `FE` , `01` : `05` : `56` : `34` : `66` : `77`]<br> >> Press `Enter`<br><br> 
