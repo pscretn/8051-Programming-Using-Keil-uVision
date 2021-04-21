@@ -6,8 +6,9 @@ Here we are going write a program to sort data in ascending and descending order
 ### Writing Code
 Now inorder to write code we need a blank file , Click on `File` >> `New...` or can use keyboard shorcut `Ctrl`+`N`<br><br>
 ![](/images/img7.png) <br><br>
-# Program
+
 ### Ascending-sorting
+## Program
 ```Assembly
 $mod51
 org 00h
@@ -40,7 +41,8 @@ movx @dptr,a
 l:sjmp l
 end
 ```
-### Descending-sorting
+# Descending-sorting
+## Program
 ``` Assembly
 $mod51
 org 00h
