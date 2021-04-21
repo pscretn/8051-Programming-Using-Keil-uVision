@@ -8,7 +8,7 @@ Now inorder to write code we need a blank file , Click on `File` >> `New...` or 
 ![](/images/img7.png) <br><br>
 
 # Largest of a Series
-### Program
+## Program
 ``` Assembly
 $mod51
 org 00h
@@ -29,7 +29,7 @@ l3:sjmp l3
 end
 ```
 # Smallest of a Series
-### Program
+## Program
 ```Assembly
   
 $mod51
