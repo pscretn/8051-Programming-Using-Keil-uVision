@@ -53,7 +53,7 @@ Locate "Memory 1" tab ,double click inside "Address" box<br><br>
 now type Address : ```x:4300h``` as shown in image below<br><br>
 ![](/images/img16.png) <br><br>
 Change the values as shown in image below , Inorder to alter value , Double-Click on it >> Change Value [ `11` : `08` , `D6` : `FE` , `01` : `05` : `56` : `34` : `66` : `77` ]<br> >> Press `Enter`<br><br>
-![](/images/img17.png) <br><br>
+![](/images/img30.png) <br><br>
 Next step is to Run the code , For that click on `Debug` >> `Run` or press on `F5` or click "Run" button highlighted in green color<br><br>
 ![](/images/img22.jpg) <br><br>
 After a few seconds we need to Stop running the code , For that click on `Debug` >> `Stop`  or click "Stop" button highlighted in red color<br><br>
@@ -106,7 +106,7 @@ Locate "Memory 1" tab ,double click inside "Address" box<br><br>
 now type Address : ```x:4300h``` as shown in image below<br><br>
 ![](/images/img16.png) <br><br>
 Change the values as shown in image below , Inorder to alter value , Double-Click on it >> Change Value [ `11` : `08` , `D6` : `FE` , `01` : `05` : `56` : `34` : `66` : `77`]<br> >> Press `Enter`<br><br> 
-![](/images/img17.png) <br><br>
+![](/images/img30.png) <br><br>
 Next step is to Run the code , For that click on `Debug` >> `Run` or press on `F5` or click "Run" button highlighted in green color<br><br>
 ![](/images/img22.jpg) <br><br>
 After a few seconds we need to Stop running the code , For that click on `Debug` >> `Stop`  or click "Stop" button highlighted in red color<br><br>
