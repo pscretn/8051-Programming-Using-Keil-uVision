@@ -29,7 +29,7 @@ l3:sjmp l3
 end
 ```
 copy the code from above and paste it as shown in the figure below<br><br>
-![](/images/img28.png) <br><br>
+![](/images/img25.png) <br><br>
 Now "Save As" the file , Click on `File` >> `Save As...`<br><br>
 ![](/images/img26.png) <br><br>
 Give a file name to your code with extenstion *.asm, for eg code.asm , then `save` it.<br><br>
@@ -38,6 +38,18 @@ Give a file name to your code with extenstion *.asm, for eg code.asm , then `sav
 ![](/images/img11.png) <br><br>
 Select the Files of type : `Asm Source file (*.s*;*.src*;*.a*)` , Select the file with extenstion *.asm , here in my case it is "code1.asm" , Click on `Add` and click on `Close`<br><br>
 ![](/images/img12.png) <br><br>
+## Project Build
+To Bulid Project , Click on `Project` >> `Build Target` or press on `F7` key<br><br>
+![](/images/img13.png) <br><br>
+If the Build is successful there will not be any error or any warning  as shown in the figure below , else verify the code and rebuild it.<br><br>
+![](/images/img14a.png) <br><br>
+## Debug and Run Code
+Next step is to debug the code , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`<br><br>
+![](/images/img15.png) <br><br>
+After Entering to debug , you will have a similar screen as shown in the figure below<br><br>
+![](/images/img21.png) <br><br>
+Locate "Memory 1" tab ,double click inside "Address" box<br><br>
+![](/images/img23.jpg) <br><br>
 # Smallest of a Series
 ## Program
 ```Assembly
@@ -61,7 +73,7 @@ l3:sjmp l3
 end
 ```
 copy the code from above and paste it as shown in the figure below<br><br>
-![](/images/img25.png) <br><br>
+![](/images/img28.png) <br><br>
 Now "Save As" the file , Click on `File` >> `Save As...`<br><br>
 ![](/images/img26.png) <br><br>
 Give a file name to your code with extenstion *.asm, for eg code.asm , then `save` it.<br><br>
@@ -70,3 +82,15 @@ Give a file name to your code with extenstion *.asm, for eg code.asm , then `sav
 ![](/images/img11.png) <br><br>
 Select the Files of type : `Asm Source file (*.s*;*.src*;*.a*)` , Select the file with extenstion *.asm , here in my case it is "code1.asm" , Click on `Add` and click on `Close`<br><br>
 ![](/images/img12.png) <br><br>
+## Project Build
+To Bulid Project , Click on `Project` >> `Build Target` or press on `F7` key<br><br>
+![](/images/img13.png) <br><br>
+If the Build is successful there will not be any error or any warning  as shown in the figure below , else verify the code and rebuild it.<br><br>
+![](/images/img14a.png) <br><br>
+## Debug and Run Code
+Next step is to debug the code , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`<br><br>
+![](/images/img15.png) <br><br>
+After Entering to debug , you will have a similar screen as shown in the figure below<br><br>
+![](/images/img21.png) <br><br>
+Locate "Memory 1" tab ,double click inside "Address" box<br><br>
+![](/images/img23.jpg) <br><br>
