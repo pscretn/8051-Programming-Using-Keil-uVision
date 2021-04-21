@@ -62,7 +62,7 @@ Locate "Memory 1" tab ,double click inside "Address" box<br>
 now type Address : ```x:4500h``` 
 ## Output
 From the image below we can see that Largest value of a Series in Location : 4500 <br><br>
-![](/images/img29a.png) <br><br>
+![](/images/img29a.png) <br><br><br><br>
 # Smallest of a Series
 ## Program
 ```Assembly
@@ -119,4 +119,4 @@ Locate "Memory 1" tab ,double click inside "Address" box<br>
 now type Address : ```x:4500h``` 
 ## Output
 From the image below we can see that Largest value of a Series in Location : 4500 <br><br>
-![](/images/img29a.png) <br><br>
+![](/images/img29.png) <br><br>
