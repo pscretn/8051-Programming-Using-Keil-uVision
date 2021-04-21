@@ -42,7 +42,7 @@ l:sjmp l
 end
 ```
 copy the code from above and paste it as shown in the figure below<br><br>
-![](/images/img28.png) <br><br>
+![](/images/img31.png) <br><br>
 Now "Save As" the file , Click on `File` >> `Save As...`<br><br>
 ![](/images/img26.png) <br><br>
 Give a file name to your code with extenstion *.asm, for eg code.asm , then `save` it.<br><br>
@@ -71,13 +71,11 @@ Next step is to Run the code , For that click on `Debug` >> `Run` or press on `F
 ![](/images/img22.jpg) <br><br>
 After a few seconds we need to Stop running the code , For that click on `Debug` >> `Stop`  or click "Stop" button highlighted in red color<br><br>
 ![](/images/img18.jpg) <br><br>
-Locate "Memory 1" tab ,double click inside "Address" box<br>
-now type Address : ```x:4500h``` 
 ## Output
-From the image below we can see that Largest value of a Series in Location : 4500 <br><br>
+From the image below we can see a series of data in ascending order  <br><br>
 ![](/images/img29.png) <br><br>
 Before Closing the Keil uVision We need to stop Debugging , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`, Then close it<br><br> 
-![](/images/img15.png) <br><br>
+![](/images/img15.png) <br><br><br><br>
 
 # Descending-sorting
 ## Program
@@ -114,7 +112,7 @@ l:sjmp l
 end
 ```
 copy the code from above and paste it as shown in the figure below<br><br>
-![](/images/img28.png) <br><br>
+![](/images/img34.png) <br><br>
 Now "Save As" the file , Click on `File` >> `Save As...`<br><br>
 ![](/images/img26.png) <br><br>
 Give a file name to your code with extenstion *.asm, for eg code.asm , then `save` it.<br><br>
@@ -143,11 +141,9 @@ Next step is to Run the code , For that click on `Debug` >> `Run` or press on `F
 ![](/images/img22.jpg) <br><br>
 After a few seconds we need to Stop running the code , For that click on `Debug` >> `Stop`  or click "Stop" button highlighted in red color<br><br>
 ![](/images/img18.jpg) <br><br>
-Locate "Memory 1" tab ,double click inside "Address" box<br>
-now type Address : ```x:4500h``` 
 ## Output
-From the image below we can see that Largest value of a Series in Location : 4500 <br><br>
-![](/images/img29.png) <br><br>
+From the image below we can see a series of data in descending order <br><br>
+![](/images/img33.png) <br><br>
 Before Closing the Keil uVision We need to stop Debugging , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`, Then close it<br><br> 
 ![](/images/img15.png) <br><br>
 
