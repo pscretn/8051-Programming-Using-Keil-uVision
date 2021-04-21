@@ -29,7 +29,7 @@ l3:sjmp l3
 end
 ```
 copy the code from above and paste it as shown in the figure below<br><br>
-![](/images/img25.png) <br><br>
+![](/images/img28.png) <br><br>
 Now "Save As" the file , Click on `File` >> `Save As...`<br><br>
 ![](/images/img26.png) <br><br>
 Give a file name to your code with extenstion *.asm, for eg code.asm , then `save` it.<br><br>
@@ -61,7 +61,7 @@ l3:sjmp l3
 end
 ```
 copy the code from above and paste it as shown in the figure below<br><br>
-![](/images/img28.png) <br><br>
+![](/images/img25.png) <br><br>
 Now "Save As" the file , Click on `File` >> `Save As...`<br><br>
 ![](/images/img26.png) <br><br>
 Give a file name to your code with extenstion *.asm, for eg code.asm , then `save` it.<br><br>
