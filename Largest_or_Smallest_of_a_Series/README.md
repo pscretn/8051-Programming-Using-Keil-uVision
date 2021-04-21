@@ -59,6 +59,10 @@ Next step is to Run the code , For that click on `Debug` >> `Run` or press on `F
 After a few seconds we need to Stop running the code , For that click on `Debug` >> `Stop`  or click "Stop" button highlighted in red color<br><br>
 ![](/images/img18.jpg) <br><br>
 Locate "Memory 1" tab ,double click inside "Address" box<br>
+now type Address : ```x:4500h``` 
+## Output
+From the image below we can see that Largest value of a Series in Location : 4500 <br><br>
+![](/images/img29a.png) <br><br>
 # Smallest of a Series
 ## Program
 ```Assembly
@@ -112,3 +116,7 @@ Next step is to Run the code , For that click on `Debug` >> `Run` or press on `F
 After a few seconds we need to Stop running the code , For that click on `Debug` >> `Stop`  or click "Stop" button highlighted in red color<br><br>
 ![](/images/img18.jpg) <br><br>
 Locate "Memory 1" tab ,double click inside "Address" box<br>
+now type Address : ```x:4500h``` 
+## Output
+From the image below we can see that Largest value of a Series in Location : 4500 <br><br>
+![](/images/img29a.png) <br><br>
