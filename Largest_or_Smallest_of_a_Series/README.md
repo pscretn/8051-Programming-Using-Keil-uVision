@@ -62,7 +62,9 @@ Locate "Memory 1" tab ,double click inside "Address" box<br>
 now type Address : ```x:4500h``` 
 ## Output
 From the image below we can see that Largest value of a Series in Location : 4500 <br><br>
-![](/images/img29a.png) <br><br><br><br>
+![](/images/img29a.png) <br><br>
+Before Closing the Keil uVision We need to stop Debugging , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`, Then close it<br><br> 
+![](/images/img15.png) <br><br><br><br>
 # Smallest of a Series
 ## Program
 ```Assembly
@@ -120,3 +122,5 @@ now type Address : ```x:4500h```
 ## Output
 From the image below we can see that Largest value of a Series in Location : 4500 <br><br>
 ![](/images/img29.png) <br><br>
+Before Closing the Keil uVision We need to stop Debugging , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`, Then close it<br><br> 
+![](/images/img15.png) <br><br>
