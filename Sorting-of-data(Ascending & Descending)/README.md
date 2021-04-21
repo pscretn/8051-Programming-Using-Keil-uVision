@@ -73,7 +73,7 @@ After a few seconds we need to Stop running the code , For that click on `Debug`
 ![](/images/img18.jpg) <br><br>
 ## Output
 From the image below we can see a series of data in ascending order  <br><br>
-![](/images/img29.png) <br><br>
+![](/images/img33.png) <br><br>
 Before Closing the Keil uVision We need to stop Debugging , For that click on `Debug` >> `Start/Stop Debug Session` or press on `Ctrl`+`F5`, Then close it<br><br> 
 ![](/images/img15.png) <br><br><br><br>
 
