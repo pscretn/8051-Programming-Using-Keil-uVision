@@ -29,16 +29,16 @@ movx @dptr,a
 l2:sjmp l2
 end
 ```
-copy the code from above and paste it as shown in the figure below<br><br>
+* Copy the code from above and paste it as shown in the figure below<br><br>
 ![](/images/imga.png) <br><br>
-Now save the code , build it and start debugging<br>
-Locate "Memory 1" tab ,double click inside "Address" box<br><br>
+ * Save the code , build it and start debugging<br>
+* Locate "Memory 1" tab ,double click inside "Address" box<br><br>
 ![](/images/img16.png) <br><br>
-now type Address : ```x:4300h``` as shown in image above<br><br>
+* type Address : ```x:4300h``` as shown in image above<br><br>
 ![](/images/imgb.png) <br><br>
-Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `42` : `72` ]<br> >> Press `Enter`<br>
-Locate "Memory 1" tab ,double click inside "Address" box<br>
-now type Address : ```x:4500h```
+* Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `42` : `72` ]<br> >> Press `Enter`
+* Locate "Memory 1" tab ,double click inside "Address" box<br>
+* type Address : ```x:4500h```
 ### Output
 From the image below we can see the sum of two 8-bit number in Location : 4500 <br><br>
 ![](/images/imgc.png) <br><br>
