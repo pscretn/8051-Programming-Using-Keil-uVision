@@ -36,4 +36,4 @@ Locate "Memory 1" tab ,double click inside "Address" box<br><br>
 ![](/images/img16.png) <br><br>
 now type Address : ```x:4300h``` as shown in image above<br><br>
 ![](/images/imgb.png) <br><br>
-Change the values as shown in image below , Inorder to alter value , Double-Click on it >> Change Value [ `11` : `08` ]<br> >> Press `Enter`<br><br>
+Change the values as shown in image below , Inorder to alter value , Double-Click on it >> Change Value [ `42` : `72` ]<br> >> Press `Enter`<br><br>
