@@ -167,3 +167,35 @@ end
 ### Output
 From the image below we can see the difference of two 16-bit number in Location : 4300 <br><br>
 ![](/images/imgl.png) <br><br>
+ ##  Multiplication of two 8-bit number
+ here we are going to write a program to multiply two 8-bit number
+ ### Program
+ ```Assembly
+$mod51
+org 00h
+mov dptr,#4300h
+movx a,@dptr
+mov b,a
+inc dptr
+movx a,@dptr
+mul ab
+inc dptr
+movx @dptr,a
+mov a,b
+inc dptr
+movx @dptr,a
+l1:sjmp l1
+end
+```
+* Copy the code from above and paste it as shown in the figure below<br><br>
+![](/images/imgm.png) <br><br>
+ * Save the code , build it and start debugging<br>
+* Locate "Memory 1" tab ,double click inside "Address" box<br><br>
+![](/images/img16.png) <br><br>
+* type Address : ```x:4300h``` as shown in image above<br><br>
+![](/images/imgn.png) <br><br>
+ * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `` : `F0` ]<br> >> Press `Enter`
+*  Run Code , After a few seconds we need to Stop running the code
+### Output
+From the image below we can see the product of two 8-bit number in Location : 4300 <br><br>
+![](/images/imgo.png) <br><br>
