@@ -36,7 +36,7 @@ end
 ![](/images/img16.png) <br><br>
 * type Address : ```x:4300h``` as shown in image above<br><br>
 ![](/images/imgb.png) <br><br>
-* Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `42` : `72` ]<br> >> Press `Enter`
+* Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `76` : `F1` : `42` : `23` ]<br> >> Press `Enter`
 * Locate "Memory 1" tab ,double click inside "Address" box<br>
 * type Address : ```x:4500h```
 ### Output
