@@ -7,7 +7,7 @@ Here we are going to write programs to Add and Substract two 8-bit & 16-bit numb
 * Project Build
 * Debug and Run Code<br><br>
  ## Addition of two 8-bit number
- here we are going to write program to add two 8-bit number
+ here we are going to write a program to add two 8-bit number
  ### Program
  ```Assembly
  $mod51
@@ -44,7 +44,7 @@ end
 From the image below we can see the sum of two 8-bit number in Location : 4500 <br><br>
 ![](/images/imgc.png) <br><br>
  ## Addition of two 16-bit number
- here we are going to write program to add two 16-bit number
+ here we are going to write a program to add two 16-bit number
  ### Program
  ```Assembly
 $mod51
@@ -88,7 +88,7 @@ From the image below we can see the sum of two 16-bit number in Location : 4300 
 ![](/images/imgf.png) <br><br>
 
  ##  Subtraction of two 8-bit number
- here we are going to write program to  subtract two 8-bit number
+ here we are going to write a program to  subtract two 8-bit number
  ### Program
  ```Assembly
 $mod51
@@ -125,7 +125,7 @@ end
 From the image below we can see the difference of two 8-bit number in Location : 4500 <br><br>
 ![](/images/imgi.png) <br><br>
  ##  Subtraction of two 16-bit number
- here we are going to write program to subtract two 16-bit number
+ here we are going to write a program to subtract two 16-bit number
  ### Program
  ```Assembly
 $mod51
