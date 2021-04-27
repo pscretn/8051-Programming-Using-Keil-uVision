@@ -6,7 +6,7 @@ Here we are going to write programs to Add and Substract two 8-bit & 16-bit numb
 * Writing Code
 * Project Build
 * Debug and Run Code<br><br>
- ## Addition of 8-bit number
+ ## Addition of two 8-bit number
  here we are going to write program to add two 8-bit number
  ### Program
  ```Assembly
@@ -42,3 +42,47 @@ end
 ### Output
 From the image below we can see the sum of two 8-bit number in Location : 4500 <br><br>
 ![](/images/imgc.png) <br><br>
+ ## Addition of two 16-bit number
+ here we are going to write program to add two 16-bit number
+ ### Program
+ ```Assembly
+$mod51
+org 00h
+mov r2,#00h
+mov dptr,#4300h
+movx a, @dptr
+mov r0,a
+mov dptr,#4302h
+movx a,@dptr
+add a,r0
+mov dptr ,#4305h
+movx @dptr,a
+mov dptr ,#4301h
+movx a,@dptr
+mov r0,a
+mov dptr,#4303h
+movx a,@dptr
+addc a,r0
+mov dptr,#4306h
+movx @dptr,a
+jnc l2
+inc r2
+l2:mov dptr,#4307h
+mov a,r2
+movx @dptr,a
+l3:sjmp l3
+end
+```
+* Copy the code from above and paste it as shown in the figure below<br><br>
+![](/images/imgd.png) <br><br>
+ * Save the code , build it and start debugging<br>
+* Locate "Memory 1" tab ,double click inside "Address" box<br><br>
+![](/images/img16.png) <br><br>
+* type Address : ```x:4300h``` as shown in image above<br><br>
+![](/images/imge.png) <br><br>
+* Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `42` : `72` ]<br> >> Press `Enter`
+
+### Output
+From the image below we can see the sum of two 16-bit number in Location : 4300 <br><br>
+![](/images/imgf.png) <br><br>
+
