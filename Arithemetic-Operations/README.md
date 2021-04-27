@@ -194,7 +194,7 @@ end
 ![](/images/img16.png) <br><br>
 * type Address : ```x:4300h``` as shown in image above<br><br>
 ![](/images/imgn.png) <br><br>
- * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `` : `F0` ]<br> >> Press `Enter`
+ * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `03` : `02` ]<br> >> Press `Enter`
 *  Run Code , After a few seconds we need to Stop running the code
 ### Output
 From the image below we can see the product of two 8-bit number in Location : 4300 <br><br>
