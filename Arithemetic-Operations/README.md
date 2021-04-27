@@ -111,12 +111,12 @@ l2:sjmp l2
 end
 ```
 * Copy the code from above and paste it as shown in the figure below<br><br>
-![](/images/imgg.png) <br><br>
+![](/images/imgh.png) <br><br>
  * Save the code , build it and start debugging<br>
 * Locate "Memory 1" tab ,double click inside "Address" box<br><br>
 ![](/images/img16.png) <br><br>
 * type Address : ```x:4300h``` as shown in image above<br><br>
-![](/images/imgh.png) <br><br>
+![](/images/imgg.png) <br><br>
 * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `42` : `72` ]<br> >> Press `Enter`
 *  Run Code , After a few seconds we need to Stop running the code
 * Locate "Memory 1" tab ,double click inside "Address" box<br>
