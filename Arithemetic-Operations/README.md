@@ -37,6 +37,7 @@ end
 * type Address : ```x:4300h``` as shown in image above<br><br>
 ![](/images/imgb.png) <br><br>
 * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `42` : `72` ]<br> >> Press `Enter`
+*  Run Code , After a few seconds we need to Stop running the code
 * Locate "Memory 1" tab ,double click inside "Address" box<br>
 * type Address : ```x:4500h```
 ### Output
@@ -81,8 +82,88 @@ end
 * type Address : ```x:4300h``` as shown in image above<br><br>
 ![](/images/imge.png) <br><br>
  * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `76` : `F1` : `42` : `23` ]<br> >> Press `Enter`
-
+*  Run Code , After a few seconds we need to Stop running the code
 ### Output
 From the image below we can see the sum of two 16-bit number in Location : 4300 <br><br>
 ![](/images/imgf.png) <br><br>
 
+ ##  Subtraction of two 8-bit number
+ here we are going to write program to  subtract two 8-bit number
+ ### Program
+ ```Assembly
+$mod51
+org 00h
+mov dptr,#4300h
+movx a,@dptr
+mov r1,a
+inc dptr
+movx a,@dptr
+mov r0, #00h
+subb a,r1
+mov dptr,#4500h
+movx @dptr,a
+jnc l1
+inc r0
+l1:inc dptr
+mov a,r0
+movx @dptr,a
+l2:sjmp l2
+end
+```
+* Copy the code from above and paste it as shown in the figure below<br><br>
+![](/images/imgg.png) <br><br>
+ * Save the code , build it and start debugging<br>
+* Locate "Memory 1" tab ,double click inside "Address" box<br><br>
+![](/images/img16.png) <br><br>
+* type Address : ```x:4300h``` as shown in image above<br><br>
+![](/images/imgh.png) <br><br>
+* Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `42` : `72` ]<br> >> Press `Enter`
+*  Run Code , After a few seconds we need to Stop running the code
+* Locate "Memory 1" tab ,double click inside "Address" box<br>
+* type Address : ```x:4500h```
+### Output
+From the image below we can see the difference of two 8-bit number in Location : 4500 <br><br>
+![](/images/imgi.png) <br><br>
+ ##  Subtraction of two 16-bit number
+ here we are going to write program to subtract two 16-bit number
+ ### Program
+ ```Assembly
+$mod51
+org 00h
+mov r2,#00h
+mov dptr,#4300h
+movx a, @dptr
+mov r0,a
+mov dptr,#4302h
+movx a,@dptr
+subb a,r0
+mov dptr ,#4305h
+movx @dptr,a
+mov dptr ,#4301h
+movx a,@dptr
+mov r0,a
+mov dptr,#4303h
+movx a,@dptr
+subb a,r0
+mov dptr,#4306h
+movx @dptr,a
+jnc l2
+inc r2
+l2:mov dptr,#4307h
+mov a,r2
+movx @dptr,a
+l3:sjmp l3
+end
+```
+* Copy the code from above and paste it as shown in the figure below<br><br>
+![](/images/imgj.png) <br><br>
+ * Save the code , build it and start debugging<br>
+* Locate "Memory 1" tab ,double click inside "Address" box<br><br>
+![](/images/img16.png) <br><br>
+* type Address : ```x:4300h``` as shown in image above<br><br>
+![](/images/imgh.png) <br><br>
+ * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `76` : `F1` : `42` : `23` ]<br> >> Press `Enter`
+*  Run Code , After a few seconds we need to Stop running the code
+### Output
+From the image below we can see the difference of two 16-bit number in Location : 4300 <br><br>
+![](/images/imgk.png) <br><br>
