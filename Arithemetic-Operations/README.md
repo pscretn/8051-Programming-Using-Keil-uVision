@@ -31,8 +31,7 @@ end
 ```
 copy the code from above and paste it as shown in the figure below<br><br>
 ![](/images/imga.png) <br><br>
-Now save the code , build it and start debugging
+Now save the code , build it and start debugging<br>
 Locate "Memory 1" tab ,double click inside "Address" box<br><br>
-![](/images/img23.jpg) <br><br>
 now type Address : ```x:4300h``` as shown in image below<br><br>
 ![](/images/img16.png) <br><br>
