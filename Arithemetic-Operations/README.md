@@ -161,9 +161,9 @@ end
 * Locate "Memory 1" tab ,double click inside "Address" box<br><br>
 ![](/images/img16.png) <br><br>
 * type Address : ```x:4300h``` as shown in image above<br><br>
-![](/images/imgg.png) <br><br>
- * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `76` : `F1` : `42` : `23` ]<br> >> Press `Enter`
+![](/images/imgk.png) <br><br>
+ * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `15` : `F0` : `00` : `F4` ]<br> >> Press `Enter`
 *  Run Code , After a few seconds we need to Stop running the code
 ### Output
 From the image below we can see the difference of two 16-bit number in Location : 4300 <br><br>
-![](/images/imgk.png) <br><br>
+![](/images/imgl.png) <br><br>
