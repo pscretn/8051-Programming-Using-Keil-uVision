@@ -1,5 +1,5 @@
 # Sum-of-a-series-of-8-bit-data
-Here we are going to write a program to Add a Series of 8 bit data.
+Here we are going to write a program to Add a series of 8 bit data.
 ## <a href="https://github.com/pscretn/8051-Programming-Using-Keil-uVision">Follow Steps from Main page</a>
 * Creating a Project in Keil uVision
 * Selecting 8051 MicroController
