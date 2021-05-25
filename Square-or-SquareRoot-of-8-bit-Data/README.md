@@ -32,7 +32,7 @@ end
 ![](/images/img16.png) <br><br>
 * type Address : ```x:4300h``` as shown in image above<br><br>
 ![](/images/im9.png) <br><br>
-* Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `0A` ] >> Press `Enter`
+* Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `09` ] >> Press `Enter`
 *  Run Code , After a few seconds we need to Stop running the code
 ### Output
 From the image below we can see the square of 8-bit numbers in Location : 4300 <br><br>
