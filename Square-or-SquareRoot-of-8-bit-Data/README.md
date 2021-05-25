@@ -35,7 +35,7 @@ end
 * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `0A` ] >> Press `Enter`
 *  Run Code , After a few seconds we need to Stop running the code
 ### Output
-From the image below we can see the sum of series of 8-bit numbers in Location : 4300 <br><br>
+From the image below we can see the square of 8-bit numbers in Location : 4300 <br><br>
 ![](/images/im10.png) <br><br>
 ## SquareRoot of 8-bit Data
  ### Program
@@ -77,5 +77,5 @@ end
 * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `0A` ] >> Press `Enter`
 *  Run Code , After a few seconds we need to Stop running the code
 ### Output
-From the image below we can see the sum of series of 8-bit numbers in Location : 4300 <br><br>
+From the image below we can see the square root of 8-bit numbers in Location : 4300 <br><br>
 ![](/images/im7.png) <br><br>
