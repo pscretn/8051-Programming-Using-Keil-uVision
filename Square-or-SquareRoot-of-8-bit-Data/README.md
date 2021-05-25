@@ -68,7 +68,7 @@ l:sjmp l
 end
 ```
 * Copy the code from above and paste it as shown in the figure below<br><br>
-![](/images/im.png) <br><br>
+![](/images/im5.png) <br><br>
  * Save the code , build it and start debugging<br>
 * Locate "Memory 1" tab ,double click inside "Address" box<br><br>
 ![](/images/img16.png) <br><br>
