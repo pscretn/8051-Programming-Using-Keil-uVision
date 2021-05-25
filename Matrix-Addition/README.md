@@ -40,7 +40,7 @@ end
 ![](/images/im2.png) <br><br>
 * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `01` : `02` : `03` : `04` : `05` : `06` : `07` : `09`] >> Press `Enter`
 * Locate "Memory 1" tab ,double click inside "Address" box<br>
-* type Address : ```x:4350h``
+* type Address : ```x:4350h```
 * Change the values as shown in image above , Inorder to alter value , Double-Click on it >> Change Value [ `01` : `02` : `03` : `04` : `05` : `06` : `07` : `09`] >> Press `Enter`
 * Run Code , After a few seconds we need to Stop running the code
 * Locate "Memory 1" tab ,double click inside "Address" box<br>
