@@ -50,3 +50,5 @@ Before Closing the Keil uVision We need to stop Debugging , For that click on `D
 * ### <a href="https://github.com/pscretn/8051-Programming-Using-Keil-uVision/tree/master/Sorting-of-data(Ascending%20%26%20Descending)">Sorting-of-data(Ascending & Descending)</a>
 * ### <a href="https://github.com/pscretn/8051-Programming-Using-Keil-uVision/tree/master/Arithemetic-Operations">Arithemetic-Operations</a>
 * ### <a href="https://github.com/pscretn/8051-Programming-Using-Keil-uVision/tree/master/Sum-of-a-series-of-8-bit-data">Sum-of-a-series-of-8-bit-data</a>
+* ### <a href="https://github.com/pscretn/8051-Programming-Using-Keil-uVision/tree/master/Matrix-Addition">Matrix-Addition-of-8-bit-data</a>
+* ### <a href="https://github.com/pscretn/8051-Programming-Using-Keil-uVision/tree/master/Square-or-SquareRoot-of-8-bit-Data">Square-and-SquareRoot-of-8-bit-data</a>
